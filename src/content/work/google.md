@@ -1,12 +1,12 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
-dateStart: "11/27/2022"
+company: "Thomson's Coffee"
+role: "Head Trainer"
+dateStart: "10/01/2022"
 dateEnd: "Now"
 ---
 
-Sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor.
+Head Trainer for Thomson's Coffee based in Glasgow. I organise and provide the training for all baristas in the company. I also provide client training for all the wholesale customers to provide them the skills and knowledge to work with our products. 
 
-- Aadipisicing elit. Iure illo neque tempora, voluptatem est.
-- dolorem dignissimos nulla ratione.
-- Quibusdam, debitis voluptatum, lorem ipsum dolor.
+- staff training for all our wholesale customers on-site or at our HQ training rooms.
+- Apply extensive knowledge of coffee and processing methods.
+- Wrote and delivered staff coffee training manuals.
