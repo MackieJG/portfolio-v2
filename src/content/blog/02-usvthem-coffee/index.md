@@ -7,6 +7,7 @@ tags:
   - Coffee
   - Filter
   - Espresso
+  - Retail
 ---
 
 What you'll find in the space:
