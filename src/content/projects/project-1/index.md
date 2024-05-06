@@ -11,9 +11,10 @@ tags:
 - Tailwind
 - Cloudflare Pages
 - PostgreSQL
+- Python
 demoUrl: https://www.juniordevresources.com
 repoUrl: https://github.com/MackieJG/your-resourceful-friend
 ---
 
 A collection of useful resources for junior developers looking to enhance their knowledge. I wanted to build something that would consolidate the numerous resources in my bookmarks
-in a accessible app that was easy to filter.
+in a accessible app that is easy to filter. Includes a project generator built using Cloudflare worker and written in Python.
